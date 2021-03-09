@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ce701864094821e46abd7ddf1b709c7e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PW Gothic Style
+  fontNames:
+  - PW Gothic Style
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3736b1c41dcb42e489eb98c387d8d91c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
