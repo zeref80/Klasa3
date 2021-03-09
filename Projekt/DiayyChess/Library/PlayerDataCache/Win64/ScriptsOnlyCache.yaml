@@ -780,5 +780,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu2.unity
   - Assets/Scenes/Chess.unity
-  playerPath: "C:/Users/Adam/Documents/GitHub/Chess-AI \u2014 programowansko + kopia
-    \u2014 kopia/Tymczasowe buildy/5/Chess.exe"
+  playerPath: C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Tymczasowe
+    buildy/2/DiayyChess.exe

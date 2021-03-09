@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{14D02F9B-3245-BDC5-5ED9-3F814D7D732B}</ProjectGuid>
+    <ProjectGuid>{2C49722B-9D29-8DA4-BF15-5C6E2A7EE629}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -268,31 +268,31 @@
     <None Include="Assets\Book\PGNs\Zurich2015.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Adam/Documents/GitHub/Chess-AI — programowansko + kopia — kopia/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Adam/Documents/GitHub/Klasa3/Projekt/DiayyChess/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
